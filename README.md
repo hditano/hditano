@@ -70,4 +70,4 @@ Here are a few things I've picked up along my learning journey.
 ## Github Contributions
 
 ![hditano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hditano&theme=prussian&hide_border=false)
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b390f9e70e3d56228e236c?variant=dark&roadmaps=devops%2Clinux%2Cterraform%2Cdocker" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b390f9e70e3d56228e236c?variant=dark&roadmaps=devops%2Cgolang%2Cdocker%2Ckubernetes" alt="roadmap.sh"/></a>
