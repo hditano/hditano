@@ -66,8 +66,9 @@ Here are a few things I've picked up along my learning journey.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/></code>
 </div>
 <hr>
+<div align="center">
+	<a href="https://wakatime.com/@e45c9799-751e-4b7f-8674-c6740aa1eebd"><img src="https://wakatime.com/badge/user/e45c9799-751e-4b7f-8674-c6740aa1eebd.svg" alt="Total time coded since May 3 2020" /></a>
+</div>
 
 ## Github Contributions
-
 ![hditano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hditano&theme=prussian&hide_border=false)
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b390f9e70e3d56228e236c?variant=dark&roadmaps=devops%2Cgolang%2Cdocker%2Ckubernetes" alt="roadmap.sh"/></a>
