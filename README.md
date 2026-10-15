@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Hernan 👨‍💻
-<code>I am a DevOps/Cloud Engineer</code> with a proven track record in architecting CI/CD pipelines, managing cloud-based workflows, crafting automation frameworks, and leading engineering efforts to enhance products features using AI technologies.
+<code>I am a SRE/DevOps/Cloud Engineer</code> with a proven track record in architecting CI/CD pipelines, managing cloud-based workflows, crafting automation frameworks, and leading engineering efforts to enhance products features using AI technologies.
 
 
 ## 💻 Tech Stack:
